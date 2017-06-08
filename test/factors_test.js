@@ -6,5 +6,7 @@ describe('Prime Factors calculator', function() {
         expect(factors(1)).to.eql([]);
 
         expect(factors(2)).to.eql([2]);
+
+        expect(factors(3)).to.eql([3]);
     });
 });

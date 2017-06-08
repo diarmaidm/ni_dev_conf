@@ -1,0 +1,22 @@
+{
+    "name": "ni_dev_conf",
+    "version": "1.0.0",
+    "description": "node version of prime factors kata done by uncle bob at ndc 2014",
+    "main": "factors.js",
+    "scripts": {
+        "test": "node node_modules/.bin/mocha"
+    },
+    "keywords": [
+        "prime",
+        "factors",
+        "kata",
+        "uncle",
+        "bob"
+    ],
+    "author": "Diarmaid McGowan",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.0.2",
+        "mocha": "^3.4.2"
+    }
+}

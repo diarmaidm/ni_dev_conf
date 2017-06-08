@@ -1,5 +1,1 @@
-function factors() {
-
-}
-
-module.exports = factors;
+module.exports = factors = _ => [];

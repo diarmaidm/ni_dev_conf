@@ -47,11 +47,12 @@ describe('Prime Factors calculator', function() {
 
         expect(factors(35)).to.eql([5, 7]);
         expect(factors(49)).to.eql([7, 7]);
-        // expect(factors(55)).to.eql([5, 11]);
+        expect(factors(55)).to.eql([5, 11]);
         // expect(factors(65)).to.eql([5, 13]);
         // expect(factors(77)).to.eql([7, 11]);
         // expect(factors(91)).to.eql([7, 13]);
         // expect(factors(121)).to.eql([11, 11]);
+        // expect(factors(125)).to.eql([5, 5, 5]);
 
     });
 });

@@ -5,7 +5,7 @@ module.exports = factorsOf = (n) => {
             factors.push(2);
             n /= 2;
         }
-        if (n % 3 === 0) {
+        while (n % 3 === 0) {
             factors.push(3);
             n /= 3;
         }

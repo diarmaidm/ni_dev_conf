@@ -1,6 +1,9 @@
 # NI Dev Conference
 ## Code and Slides for inaugural Northern Ireland Developer Conference talk https://www.nidevconf.com/
 
+Slides from talk as [Open Document Presentation file](ni_dev_conf.odp) and [PDF](ni_dev_conf.pdf)
+
+---
 ## Step by step instructions to recreate kata.
 
 ### Create new directory

@@ -1,5 +1,7 @@
 # NI Dev Conference
-## Code for inaugural Northern Ireland Developer Conference talk https://www.nidevconf.com/
+## Code and Slides for inaugural Northern Ireland Developer Conference talk https://www.nidevconf.com/
+
+## Step by step instructions to recreate kata.
 
 ### Create new directory
 `mkdir ni_dev_conf`
